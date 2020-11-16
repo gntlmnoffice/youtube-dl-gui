@@ -10,14 +10,14 @@ Note:
 
 from __future__ import unicode_literals
 
-__author__ = 'Sotiris Papadopoulos'
-__contact__ = 'ytubedlg@gmail.com'
-__projecturl__ = 'https://mrs0m30n3.github.io/youtube-dl-gui/'
+__author__ = 'Gntlmn'
+__contact__ = 'gntlmnoffice@gmail.com'
+__projecturl__ = 'https://github.com/gntlmnoffice/youtube-dl-gui'
 
-__appname__ = 'Youtube-DLG'
+__appname__ = 'YouTube-DLG'
 __license__ = 'UNLICENSE'
 
-__description__ = 'Youtube-dl GUI'
+__description__ = 'YouTube-DL GUI'
 
 __descriptionfull__ = '''A cross platform front-end GUI of the popular
 youtube-dl written in wxPython'''
